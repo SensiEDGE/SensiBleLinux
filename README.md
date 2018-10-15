@@ -1,7 +1,7 @@
 # SensiBLE-HummingBoard integration example 
 This is example of integration SensiBLE with HummingBoard to IBM Watson IoT Platform
 
-<img src="https://gitlab.com/droid-technologies/sensible-hummingboard/blob/building/resources/logo.png"
+<img src="https://github.com/SensiEDGE/SensiBleLinux/blob/develop/resources/logo.png"
      alt="logo"/>
 ## Dependencies
 git  
@@ -78,7 +78,7 @@ Discovered D0:CF:5E:0A:23:D8 - 'BleButton_23D8'
 Discovered 02:80:E1:00:00:AA - 'AM1V300'  
 Discovered 51:84:DB:28:95:62*
 
-<img src="https://gitlab.com/droid-technologies/sensible-hummingboard/blob/building/resources/working_process.png"
+<img src="https://github.com/SensiEDGE/SensiBleLinux/blob/develop/resources/working_process.png"
      alt="Click to see screenshot"/>
 
 In next prompt:  
@@ -87,5 +87,5 @@ you should insert one of the device addresses, belong to SensiBLE device, for ex
 https://quickstart.internetofthings.ibmcloud.com/#/device/HB_SE_1/sensor/
 
 
-<img src="https://gitlab.com/droid-technologies/sensible-hummingboard/blob/building/resources/ibm_watson_iot.png"
+<img src="https://github.com/SensiEDGE/SensiBleLinux/blob/develop/resources/ibm_watson_iot.png"
      alt="Click to see screenshot"/>
