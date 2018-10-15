@@ -1,5 +1,4 @@
-# SensiBLE-HummingBoard integration example 
-This is example of integration SensiBLE with HummingBoard to IBM Watson IoT Platform
+# SensiBLE and Linux examples
 
 <img src="https://github.com/SensiEDGE/SensiBleLinux/blob/develop/resources/logo.png"
      alt="logo"/>
